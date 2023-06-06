@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Что такое СообРАЖатор?"
 ---
 
 <iframe src="https://telesco.pe/embed/gems_cleverage/38" width="420" height="340" frameborder="0"></iframe>
