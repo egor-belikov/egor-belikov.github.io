@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  egor-belikov
 
 # Build settings
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "light.scss"
 logo: "/logo.jpg"
 plugins:
