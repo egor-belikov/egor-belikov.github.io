@@ -30,7 +30,7 @@ github_username:  egor-belikov
 # Build settings
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/light.scss"
-logo: "/images/logo.jpg"
+logo: "/logo.jpg"
 plugins:
   - jekyll-feed
 
