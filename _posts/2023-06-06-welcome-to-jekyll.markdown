@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dHHmUF9gs70" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://telesco.pe/embed/gems_cleverage/38" width="420" height="340" frameborder="0"></iframe>
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
