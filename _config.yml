@@ -29,7 +29,7 @@ github_username:  egor-belikov
 
 # Build settings
 theme: jekyll-theme-so-simple
-skin: "/light.scss"
+skin: "light.scss"
 logo: "/logo.jpg"
 plugins:
   - jekyll-feed
