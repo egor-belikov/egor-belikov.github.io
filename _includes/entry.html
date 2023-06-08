@@ -7,11 +7,7 @@
 <article class="entry h-entry">
   <header class="entry-header">
     <h3 class="entry-title p-name">
-      {% if entry.link %}
-        <a class="u-bookmark-of" href="{{ entry.link }}">{{ title }}</a> <a href="{{ entry.url | relative_url }}" rel="bookmark"><span class="link-arrow">&rarr;</span></a>
-      {% else %}
-        <a href="{{ entry.url | relative_url }}" rel="bookmark">{{ title }}</a>
-      {% endif %}
+      {{ title }}
     </h3>
     {% if entry.image.thumbnail %}
       {% assign entry_image = entry.image.thumbnail %}
