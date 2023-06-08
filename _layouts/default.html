@@ -12,18 +12,11 @@
     {% include skip-links.html %}
     {% include navigation.html %}
     {% include masthead.html %}
-    <div id="toc"></div>
+
     {{ content }}
-    
+
     {% include footer.html %}
     {% include scripts.html %}
   </body>
 
 </html>
-
-<script src="/assets/js/plugins/toc.js"></script>
-<script type="text/javascript">
-  $(document).ready(function() {
-      $('#toc').toc();
-  });
-  </script>
