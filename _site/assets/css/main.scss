@@ -257,7 +257,7 @@ h1 { font-size: 20.7385152499px; }
 @media screen and (min-width: 1280px) { h1 { font-size: 33.1776px; } }
 
 h2 { font-size: 19.436284208px; }
-@media screen and (min-width: 320px) { h2 { font-size: calc(19.436284208px + 8.211715792 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { h2 { font-size: calc(24.436284208px + 8.211715792 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { h2 { font-size: 27.648px; } }
 
 h3 { font-size: 18.215824px; }
