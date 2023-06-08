@@ -6,6 +6,12 @@ sitemap: false
 
 @import "so-simple";
 
+div#toc {
+    padding: 10px;
+    border: 1px solid #aaa;
+    display: inline-block !important;
+}
+
 /* Telegram button */
 
 // 90 = 360/no of layers (4 in my case)
