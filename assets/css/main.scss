@@ -7,6 +7,11 @@ sitemap: false
 
 @import "so-simple";
 
+.toc-wrapper li ol {
+    padding-left: 0.5rem;
+    list-style-type:decimal;
+}
+
 /* Telegram button */
 
 // 90 = 360/no of layers (4 in my case)
