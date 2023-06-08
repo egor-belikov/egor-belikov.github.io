@@ -20,8 +20,8 @@
   </header>
   {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
-      {% if entry.excerpt %}
-        {{ entry.excerpt | markdownify }}
+      {% if entry %}
+        {{ entry | markdownify }}
       {% endif %}
     </div>
   {% endunless %}
