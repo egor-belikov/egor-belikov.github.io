@@ -5,8 +5,7 @@ excerpt_separator: <!--more-->
 
 ---
 
-* TOC
-{:toc}
+{% include toc %}
 
 ## Общие Принципы
 
