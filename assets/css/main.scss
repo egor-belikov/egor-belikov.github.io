@@ -1,5 +1,4 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 sitemap: false
 ---
 
@@ -19,7 +18,7 @@ $delayStep: .115s;
 	border-radius: 7px;
 	cursor: pointer;
 	color: black;
-	font: 600 1.05rem/1 "Nunito", sans-serif;
+	font: 600 1.05rem/1 "Source Sans Pro",sans-serif;
 	letter-spacing: .05em;
 	overflow: hidden;
 	padding: 1.15em 3.5em;
