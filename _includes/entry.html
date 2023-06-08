@@ -20,7 +20,6 @@
   </header>
   {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
-      <div id="toc"></div>
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
       {% endif %}
