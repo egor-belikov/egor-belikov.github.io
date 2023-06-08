@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Что такое СообРАЖатор?"
+excerpt_separator: <!--more-->
+
 ---
 
 <iframe src="https://telesco.pe/embed/gems_cleverage/38" width="420" height="340" frameborder="0"></iframe>
@@ -28,3 +30,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+<!--more-->
