@@ -33,9 +33,7 @@ skin: "/assets/css/skins/light.css"
 logo: "/logo.jpg"
 plugins:
   - jekyll-feed
-markdown: redcarpet
-redcarpet:
-      extensions: [with_toc_data]
+markdown: kramdown
 
 
 # Exclude from processing.
